@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="edit_text_label">Введите текст в поле</string>
+    <string name="button_text">Увидеть результат</string>
+    <string name="edit_text_watermark">Введите текст</string>
+    <string name="red_label">Красный</string>
+    <string name="green_label">Зеленый</string>
+    <string name="blue_label">Синий</string>
+    <string name="yellow_label">Желтый</string>
+    <string name="random_color_label">Случайный</string>
+</resources>
